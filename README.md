@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-Just Another Text Editor: JATE is in fact, just another text editor, BUT its also a Progressive Web Application text editor! It uses the data persistance techniques of local storage, the indexedDB database, and caching so the user can write whatever they need, whenever they need. It doesn't matter if they're online or offline!
+Just Another Text Editor: JATE is in fact, just another text editor, BUT its also a Progressive Web Application text editor! It uses the data persistance techniques of local storage, the indexedDB database, and caching so the user can write whatever they need, whenever they need. It doesn't matter if they're online or offline, by using JATE, everything will be saved and ready to go.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -20,7 +20,7 @@ The application has been deployed to Render and can be used by visiting the link
 ## Usage
 Click [here](https://just-another-text-editor-5nwx.onrender.com/) for the deployed application.
 
-To use this application simply navigate to the link above. The user can start typing in the text editor immediately and the work will be saved, through the use of local storage, the indexedDB database, and caching.
+To use this application simply navigate to the link above. The user can start typing in the text editor immediately and the work will be saved, through the use of local storage, the indexedDB database, and caching. To install the application simply click the "Install!" button on the left-hand side, or click the install icon located in the address bar. Then the application will be downloaded to your local computer to be used whenever you want.
 
 ![Screenshot of JATE](./client/src/images/jateScreenshot.png)
 
